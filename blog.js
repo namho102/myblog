@@ -12,4 +12,4 @@ $(function() {
     });
  
 })();
-console.log('What''s up');
+console.log("WTF");
