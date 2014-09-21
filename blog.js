@@ -11,5 +11,5 @@ $(function() {
       alert("yay! it worked");
     });
  
-})();
+});
 console.log("WTF");
